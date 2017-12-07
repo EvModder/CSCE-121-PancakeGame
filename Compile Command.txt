@@ -1,0 +1,4 @@
+
+Use this:
+
+/g++ -std=c++14 find_solution.o lib/*cpp *cpp -lfltk -lfltk_images
